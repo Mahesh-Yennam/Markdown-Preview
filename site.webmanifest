@@ -1,0 +1,16 @@
+{
+  "name": "Side-by-Side Markdown Live Editor & Previewer — Gamility Tools",
+  "short_name": "MarkdownPro",
+  "description": "High-performance split-screen Markdown editor with real-time GitHub-flavored preview, HTML export, and offline privacy.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090e1a",
+  "theme_color": "#090e1a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
